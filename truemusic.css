@@ -5,8 +5,11 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(250,241,234);
     font-family: 'Roboto', sans-serif;
+}
+
+div#wrapper {
+    background-color: rgb(250,241,234);
 }
 
 header{
